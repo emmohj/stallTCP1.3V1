@@ -154,7 +154,7 @@ const DEFAULT_SUB_DOMAIN = "sub.cmliussss.net";  // 真实订阅源（用于聚�
 
 字段为主机名 运算符为等于 值为你的子域名+你的域名
 
-例如：123.321.com 
+例如：123为子域名 321.com为你的CF托管域名 
 
 <img width="1920" height="914" alt="image" src="https://github.com/user-attachments/assets/1f858efe-a6ce-4bf6-8d62-0bfc462ef2b3" />
 
